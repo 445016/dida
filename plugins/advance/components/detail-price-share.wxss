@@ -1,0 +1,21 @@
+wx-page.data-v-09e7ca4c,wx-block.data-v-09e7ca4c,wx-view.data-v-09e7ca4c,wx-scroll-view.data-v-09e7ca4c,wx-swiper.data-v-09e7ca4c,wx-movable-view.data-v-09e7ca4c,wx-icon.data-v-09e7ca4c,wx-text.data-v-09e7ca4c,wx-progress.data-v-09e7ca4c,wx-button.data-v-09e7ca4c,wx-checkbox.data-v-09e7ca4c,wx-form.data-v-09e7ca4c,wx-input.data-v-09e7ca4c,wx-label.data-v-09e7ca4c,wx-picker.data-v-09e7ca4c,wx-picker-view.data-v-09e7ca4c,wx-radio.data-v-09e7ca4c,wx-slider.data-v-09e7ca4c,wx-switch.data-v-09e7ca4c,wx-textarea.data-v-09e7ca4c,wx-navigator.data-v-09e7ca4c,wx-audio.data-v-09e7ca4c,wx-image.data-v-09e7ca4c,wx-video.data-v-09e7ca4c,wx-map.data-v-09e7ca4c,wx-canvas.data-v-09e7ca4c,wx-contact-button.data-v-09e7ca4c,wx-cover-image.data-v-09e7ca4c,wx-cover-view.data-v-09e7ca4c{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center.data-v-09e7ca4c{text-align:center}
+.font-weight.data-v-09e7ca4c{font-weight:bold}
+wx-page.data-v-09e7ca4c{font-size:32rpx;background:#f7f7f7}
+.detail-price-share.data-v-09e7ca4c{padding:18rpx 24rpx 24rpx 24rpx;background-color:#ffffff}
+.detail-price-share .presale.data-v-09e7ca4c{font-size:56rpx;color:#ff4544;margin-right:16rpx;font-family:DIN}
+.detail-price-share .presale .symbol.data-v-09e7ca4c{font-size:32rpx}
+.detail-price-share .title.data-v-09e7ca4c{font-size:28rpx;color:#ff4544}
+.detail-price-share .des.data-v-09e7ca4c{font-size:26rpx;line-height:26rpx;color:#ff4544}
+.detail-price-share .original-price.data-v-09e7ca4c{font-size:24rpx;color:#999999;margin-top:8rpx;text-decoration:line-through}
+.detail-price-share .share.data-v-09e7ca4c{margin-top:23rpx;width:50rpx;height:80rpx;padding:5rpx}
+.detail-price-share .share>wx-image.data-v-09e7ca4c{width:40rpx;height:40rpx}
+.detail-price-share .share>wx-text.data-v-09e7ca4c{font-size:21rpx;color:#666666;white-space:nowrap}
+.member-price .symbol.data-v-09e7ca4c{font-size:23rpx}
+.member-price .member.data-v-09e7ca4c{color:#f39800;font-family:DIN}
+.member-price .member .m-p.data-v-09e7ca4c{font-family:DIN;font-size:40rpx}
+.member-price .member .logo.data-v-09e7ca4c{display:inline-block;font-size:20rpx;border:1rpx solid #f39800;background-color:rgba(243,154,5,0.1);padding:2rpx 4rpx;margin-left:12rpx;border-radius:8rpx;margin-bottom:5rpx}
+.member-price .yushou .p.data-v-09e7ca4c{font-size:26rpx;color:#ff4544;font-family:DIN}
+.member-price .yushou .p-t.data-v-09e7ca4c{font-size:26rpx;color:#ff4544;margin-left:8rpx}
+.member-price .ori.data-v-09e7ca4c{text-decoration:line-through;color:#999999;font-size:24rpx;margin-left:16rpx}
+.time.data-v-09e7ca4c{font-size:22rpx;color:#999999}

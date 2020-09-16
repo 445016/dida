@@ -1,0 +1,21 @@
+wx-page.data-v-72dfd756,wx-block.data-v-72dfd756,wx-view.data-v-72dfd756,wx-scroll-view.data-v-72dfd756,wx-swiper.data-v-72dfd756,wx-movable-view.data-v-72dfd756,wx-icon.data-v-72dfd756,wx-text.data-v-72dfd756,wx-progress.data-v-72dfd756,wx-button.data-v-72dfd756,wx-checkbox.data-v-72dfd756,wx-form.data-v-72dfd756,wx-input.data-v-72dfd756,wx-label.data-v-72dfd756,wx-picker.data-v-72dfd756,wx-picker-view.data-v-72dfd756,wx-radio.data-v-72dfd756,wx-slider.data-v-72dfd756,wx-switch.data-v-72dfd756,wx-textarea.data-v-72dfd756,wx-navigator.data-v-72dfd756,wx-audio.data-v-72dfd756,wx-image.data-v-72dfd756,wx-video.data-v-72dfd756,wx-map.data-v-72dfd756,wx-canvas.data-v-72dfd756,wx-contact-button.data-v-72dfd756,wx-cover-image.data-v-72dfd756,wx-cover-view.data-v-72dfd756{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center.data-v-72dfd756{text-align:center}
+.font-weight.data-v-72dfd756{font-weight:bold}
+wx-page.data-v-72dfd756{font-size:32rpx;background:#f7f7f7}
+.product-list.data-v-72dfd756{width:750rpx}
+.product-list .item.data-v-72dfd756{height:268rpx;background-color:#ffffff;width:100%;padding:24rpx}
+.product-list .item .item-in.data-v-72dfd756{width:702rpx;height:220rpx}
+.product-list .item .item-in wx-image.data-v-72dfd756{width:220rpx;height:220rpx;border-radius:12rpx}
+.product-list .item .item-in .item-content.data-v-72dfd756{width:458rpx;height:220rpx}
+.product-list .item .item-in .item-name.data-v-72dfd756{width:458rpx;line-height:40rpx;padding:7rpx 0;font-size:25rpx;color:#353535;word-break:break-all;-o-text-overflow:ellipsis;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.product-list .item .item-in .item-time.data-v-72dfd756{width:458rpx;height:24rpx;margin-top:8rpx;line-height:24rpx}
+.product-list .item .item-in .item-time .icon.data-v-72dfd756{width:24rpx;height:24rpx;margin-right:12rpx}
+.product-list .item .item-in .item-time .text.data-v-72dfd756{font-size:25rpx;color:#adadad}
+.product-list .item .item-in .item-time .text-time.data-v-72dfd756{font-size:25rpx;color:#ff4544}
+.product-list .item .item-in .price-button.data-v-72dfd756{width:458rpx;height:73rpx;margin-bottom:28rpx}
+.product-list .item .item-in .price-button .price.data-v-72dfd756{width:354rpx;height:73rpx}
+.product-list .item .item-in .price-button .price .symbol.data-v-72dfd756{display:inline-block;padding:2rpx 4rpx;font-size:24rpx;color:#ff4544;border:1rpx solid #ff4544;border-radius:8rpx;line-height:28rpx}
+.product-list .item .item-in .price-button .price .all-price .new-price.data-v-72dfd756{font-size:28rpx;color:#ff4544}
+.product-list .item .item-in .price-button .price .all-price .old-price.data-v-72dfd756{font-size:21rpx;color:#999999;text-decoration:line-through;margin-left:12rpx}
+.product-list .item .item-in .price-button .button.data-v-72dfd756{width:104rpx;height:56rpx;margin-top:17rpx;background-color:#ff4544;border-radius:28rpx;font-size:28rpx;color:#ffffff;text-align:center;line-height:56rpx}
+.product-list .item-bottom-bor.data-v-72dfd756{border-bottom:1rpx solid #eee}

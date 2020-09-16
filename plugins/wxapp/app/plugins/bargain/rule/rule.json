@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "砍价规则",
+  "usingComponents": {
+    "app-layout": "/components/basic-component/app-layout/app-layout"
+  }
+}

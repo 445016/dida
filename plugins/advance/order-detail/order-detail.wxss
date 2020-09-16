@@ -1,0 +1,5 @@
+wx-page.data-v-328d81c2,wx-block.data-v-328d81c2,wx-view.data-v-328d81c2,wx-scroll-view.data-v-328d81c2,wx-swiper.data-v-328d81c2,wx-movable-view.data-v-328d81c2,wx-icon.data-v-328d81c2,wx-text.data-v-328d81c2,wx-progress.data-v-328d81c2,wx-button.data-v-328d81c2,wx-checkbox.data-v-328d81c2,wx-form.data-v-328d81c2,wx-input.data-v-328d81c2,wx-label.data-v-328d81c2,wx-picker.data-v-328d81c2,wx-picker-view.data-v-328d81c2,wx-radio.data-v-328d81c2,wx-slider.data-v-328d81c2,wx-switch.data-v-328d81c2,wx-textarea.data-v-328d81c2,wx-navigator.data-v-328d81c2,wx-audio.data-v-328d81c2,wx-image.data-v-328d81c2,wx-video.data-v-328d81c2,wx-map.data-v-328d81c2,wx-canvas.data-v-328d81c2,wx-contact-button.data-v-328d81c2,wx-cover-image.data-v-328d81c2,wx-cover-view.data-v-328d81c2{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center.data-v-328d81c2{text-align:center}
+.font-weight.data-v-328d81c2{font-weight:bold}
+wx-page.data-v-328d81c2{font-size:32rpx;background:#f7f7f7}
+.order-detail.data-v-328d81c2{position:absolute;width:750rpx;height:100%}

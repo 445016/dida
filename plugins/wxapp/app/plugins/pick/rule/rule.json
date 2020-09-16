@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "活动规则",
+  "usingComponents": {
+    "app-rule": "/components/page-component/app-rule/app-rule"
+  }
+}

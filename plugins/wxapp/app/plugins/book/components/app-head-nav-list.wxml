@@ -1,0 +1,1 @@
+<scroll-view class="app-head-nav-list data-v-379a086c" scroll-x><block wx:for="{{catList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><text data-event-opts="{{[['tap',[['active',['$0'],[[['catList','',index,'id']]]]]]]}}" class="{{['app-item data-v-379a086c',(cat_id==item.id)?'app-active-item':'']}}" bindtap="__e">{{item.name}}</text></block></scroll-view>

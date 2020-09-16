@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "app-product-list": "/components/page-component/app-product-list/app-product-list"
+  }
+}

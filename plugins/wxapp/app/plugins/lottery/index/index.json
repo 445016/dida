@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "app-swiper": "/components/page-component/app-swiper/app-swiper",
+    "common-buttom": "/plugins/lottery/common-buttom"
+  }
+}

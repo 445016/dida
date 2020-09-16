@@ -1,0 +1,6 @@
+wx-page.data-v-a3cd3dee,wx-block.data-v-a3cd3dee,wx-view.data-v-a3cd3dee,wx-scroll-view.data-v-a3cd3dee,wx-swiper.data-v-a3cd3dee,wx-movable-view.data-v-a3cd3dee,wx-icon.data-v-a3cd3dee,wx-text.data-v-a3cd3dee,wx-progress.data-v-a3cd3dee,wx-button.data-v-a3cd3dee,wx-checkbox.data-v-a3cd3dee,wx-form.data-v-a3cd3dee,wx-input.data-v-a3cd3dee,wx-label.data-v-a3cd3dee,wx-picker.data-v-a3cd3dee,wx-picker-view.data-v-a3cd3dee,wx-radio.data-v-a3cd3dee,wx-slider.data-v-a3cd3dee,wx-switch.data-v-a3cd3dee,wx-textarea.data-v-a3cd3dee,wx-navigator.data-v-a3cd3dee,wx-audio.data-v-a3cd3dee,wx-image.data-v-a3cd3dee,wx-video.data-v-a3cd3dee,wx-map.data-v-a3cd3dee,wx-canvas.data-v-a3cd3dee,wx-contact-button.data-v-a3cd3dee,wx-cover-image.data-v-a3cd3dee,wx-cover-view.data-v-a3cd3dee{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center.data-v-a3cd3dee{text-align:center}
+.font-weight.data-v-a3cd3dee{font-weight:bold}
+wx-page.data-v-a3cd3dee{font-size:32rpx;background:#f7f7f7}
+.index.data-v-a3cd3dee{position:absolute;width:100%;height:100%;background-color:#f7f7f7;padding-top:88rpx}
+.index-product-list.data-v-a3cd3dee{margin-top:20rpx}

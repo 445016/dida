@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商城设置",
+  "usingComponents": {
+    "app-switch": "/components/basic-component/app-switch/app-switch"
+  }
+}

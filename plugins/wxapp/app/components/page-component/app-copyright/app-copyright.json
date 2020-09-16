@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-jump-button": "/components/basic-component/app-jump-button/app-jump-button"
+  },
+  "component": true
+}

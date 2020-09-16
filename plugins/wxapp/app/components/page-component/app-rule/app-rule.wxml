@@ -1,0 +1,1 @@
+<view class="app-rule data-v-5231abb2"><block wx:if="{{is_title}}"><view class="rule-title data-v-5231abb2">{{''+title+''}}</view></block><view class="rule-content data-v-5231abb2"><app-rich-text vue-id="1" content="{{content}}" class="data-v-5231abb2" bind:__l="__l"></app-rich-text></view></view>

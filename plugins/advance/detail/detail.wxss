@@ -1,0 +1,16 @@
+wx-page.data-v-4ffcceb0,wx-block.data-v-4ffcceb0,wx-view.data-v-4ffcceb0,wx-scroll-view.data-v-4ffcceb0,wx-swiper.data-v-4ffcceb0,wx-movable-view.data-v-4ffcceb0,wx-icon.data-v-4ffcceb0,wx-text.data-v-4ffcceb0,wx-progress.data-v-4ffcceb0,wx-button.data-v-4ffcceb0,wx-checkbox.data-v-4ffcceb0,wx-form.data-v-4ffcceb0,wx-input.data-v-4ffcceb0,wx-label.data-v-4ffcceb0,wx-picker.data-v-4ffcceb0,wx-picker-view.data-v-4ffcceb0,wx-radio.data-v-4ffcceb0,wx-slider.data-v-4ffcceb0,wx-switch.data-v-4ffcceb0,wx-textarea.data-v-4ffcceb0,wx-navigator.data-v-4ffcceb0,wx-audio.data-v-4ffcceb0,wx-image.data-v-4ffcceb0,wx-video.data-v-4ffcceb0,wx-map.data-v-4ffcceb0,wx-canvas.data-v-4ffcceb0,wx-contact-button.data-v-4ffcceb0,wx-cover-image.data-v-4ffcceb0,wx-cover-view.data-v-4ffcceb0{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center.data-v-4ffcceb0{text-align:center}
+.font-weight.data-v-4ffcceb0{font-weight:bold}
+wx-page.data-v-4ffcceb0{font-size:32rpx;background:#f7f7f7}
+.name.data-v-4ffcceb0{width:750rpx;font-size:32rpx;color:#353535;padding:32rpx 24rpx 0 24rpx;word-break:break-all;-o-text-overflow:ellipsis;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;background-color:white}
+.join-member.data-v-4ffcceb0{background-color:#ffffff;padding:0 24rpx;-webkit-box-sizing:border-box;box-sizing:border-box}
+.border-top.data-v-4ffcceb0{border-top:1rpx solid #e2e2e2}
+.select-attr.data-v-4ffcceb0{width:750rpx;padding:0 24rpx;height:100rpx;line-height:100rpx;background-color:white;font-size:26rpx;margin:20rpx 0}
+.select-attr .a-s.data-v-4ffcceb0{height:100rpx;line-height:100rpx;display:inline-block;white-space:nowrap;width:100%;overflow:hidden;-webkit-line-clamp:1;-o-text-overflow:ellipsis;text-overflow:ellipsis}
+.select-attr>wx-image.data-v-4ffcceb0{width:12rpx;height:22rpx}
+.zhe.data-v-4ffcceb0{height:80rpx;background-color:white;width:750rpx;padding:0 24rpx;margin-top:20rpx}
+.zhe .symbol.data-v-4ffcceb0{width:116rpx;font-size:20rpx;color:#ff4544;border:1rpx solid #ff4544;border-radius:4rpx;text-align:center}
+.zhe .image.data-v-4ffcceb0{width:12rpx;height:22rpx}
+.zhe .content.data-v-4ffcceb0{width:520rpx;font-size:21rpx;color:#666666;word-break:break-all;-o-text-overflow:ellipsis;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:1;overflow:hidden;margin-left:12rpx}
+.detail-discount.data-v-4ffcceb0{margin:20rpx 0}
+.goods-service.data-v-4ffcceb0{margin-top:20rpx}

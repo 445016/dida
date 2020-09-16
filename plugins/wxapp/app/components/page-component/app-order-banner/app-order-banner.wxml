@@ -1,0 +1,1 @@
+<view class="app-order-banner order-status-box cross-center data-v-1d37fde0"><image class="img _img data-v-1d37fde0" src="{{newPicUrl}}"></image><view class="text data-v-1d37fde0">{{title}}</view></view>

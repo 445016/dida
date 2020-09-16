@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["plugins/gift/components/detail/receiving-status"],{"0fc1":function(t,e,n){"use strict";n.r(e);var i=n("2bdb"),o=n("fd54");for(var r in o)"default"!==r&&function(t){n.d(e,t,function(){return o[t]})}(r);n("da99");var a=n("2877"),u=Object(a["a"])(o["default"],i["a"],i["b"],!1,null,"27b6c0ae",null);e["default"]=u.exports},"2bdb":function(t,e,n){"use strict";var i=function(){var t=this,e=t.$createElement,n=(t._self._c,t.getConvert(t.detail)),i=t.getConvert(t.detail),o=t.getConvert(t.detail),r=t.getConvert(t.detail);t.$mp.data=Object.assign({},{$root:{m0:n,m1:i,m2:o,m3:r}})},o=[];n.d(e,"a",function(){return i}),n.d(e,"b",function(){return o})},"40ba":function(t,e,n){"use strict";(function(t){Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var i=function(){return Promise.all([n.e("common/vendor"),n.e("components/basic-component/app-iphone-x/app-iphone-x")]).then(n.bind(null,"7598"))},o={name:"receiving-status",props:["theme","type","gift_id","status","status_num","user_id","order_id","notPayOrder","detail"],components:{"app-iphone-x":i},methods:{route_go:function(e){t.navigateTo({url:e})},setShare:function(){this.$emit("setShare")},receipt:function(){this.$emit("receipt",this.order_id)},getConvert:function(t){for(var e=!0,n=0;n<t.length;n++)-1==t[n].is_convert&&(e=!1);return e}}};e.default=o}).call(this,n("543d")["default"])},"5c20":function(t,e,n){},da99:function(t,e,n){"use strict";var i=n("5c20"),o=n.n(i);o.a},fd54:function(t,e,n){"use strict";n.r(e);var i=n("40ba"),o=n.n(i);for(var r in i)"default"!==r&&function(t){n.d(e,t,function(){return i[t]})}(r);e["default"]=o.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'plugins/gift/components/detail/receiving-status-create-component',
+    {
+        'plugins/gift/components/detail/receiving-status-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("0fc1"))
+        })
+    },
+    [['plugins/gift/components/detail/receiving-status-create-component']]
+]);                

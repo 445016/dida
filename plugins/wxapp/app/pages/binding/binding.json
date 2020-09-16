@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "绑定手机号",
+  "usingComponents": {
+    "app-phone-binding": "/components/page-component/app-phone-binding/app-phone-binding"
+  }
+}

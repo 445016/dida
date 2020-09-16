@@ -1,0 +1,1 @@
+<app-layout vue-id="1" bind:__l="__l" vue-slots="{{['default']}}"><app-rule vue-id="{{('2')+','+('1')}}" title="{{title}}" content="{{rules}}" is_title="{{true}}" bind:__l="__l"></app-rule></app-layout>

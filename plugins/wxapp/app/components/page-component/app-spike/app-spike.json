@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "app-load-text": "/components/basic-component/app-load-text/app-load-text",
+    "app-timer": "/components/basic-component/app-timer/app-timer"
+  },
+  "component": true
+}

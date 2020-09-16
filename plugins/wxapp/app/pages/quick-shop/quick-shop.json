@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "快速购买",
+  "usingComponents": {
+    "app-add-subtract": "/pages/quick-shop/components/app-add-subtract/app-add-subtract",
+    "app-attr": "/components/page-component/app-attr/app-attr",
+    "app-load-text": "/components/basic-component/app-load-text/app-load-text",
+    "app-member-price": "/components/page-component/app-member-mark/app-member-price",
+    "app-sup-vip": "/components/page-component/app-sup-vip/app-sup-vip"
+  }
+}

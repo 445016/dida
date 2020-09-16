@@ -1,0 +1,1 @@
+<view class="app-layout data-v-32ff947b"><app-layout vue-id="1" class="data-v-32ff947b" bind:__l="__l" vue-slots="{{['default']}}"><view class="rule data-v-32ff947b"><text class="text data-v-32ff947b" space="nbsp">{{rules}}</text></view></app-layout></view>

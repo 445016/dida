@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "会员中心",
+  "usingComponents": {
+    "app-rich-text": "/components/basic-component/app-rich/parse"
+  }
+}

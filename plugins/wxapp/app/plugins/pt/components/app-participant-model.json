@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "app-surplus-time": "/plugins/pt/components/app-surplus_time"
+  },
+  "component": true
+}

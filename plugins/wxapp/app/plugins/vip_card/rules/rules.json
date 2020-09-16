@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "超级会员卡使用说明",
+  "usingComponents": {
+    "app-rich-text": "/components/basic-component/app-rich/parse"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "卡券详情",
+  "usingComponents": {
+    "app-clerk-historys": "/components/page-component/app-clerk-historys/app-clerk-historys"
+  }
+}

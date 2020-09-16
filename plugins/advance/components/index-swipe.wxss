@@ -1,0 +1,6 @@
+wx-page.data-v-4ed4d09a,wx-block.data-v-4ed4d09a,wx-view.data-v-4ed4d09a,wx-scroll-view.data-v-4ed4d09a,wx-swiper.data-v-4ed4d09a,wx-movable-view.data-v-4ed4d09a,wx-icon.data-v-4ed4d09a,wx-text.data-v-4ed4d09a,wx-progress.data-v-4ed4d09a,wx-button.data-v-4ed4d09a,wx-checkbox.data-v-4ed4d09a,wx-form.data-v-4ed4d09a,wx-input.data-v-4ed4d09a,wx-label.data-v-4ed4d09a,wx-picker.data-v-4ed4d09a,wx-picker-view.data-v-4ed4d09a,wx-radio.data-v-4ed4d09a,wx-slider.data-v-4ed4d09a,wx-switch.data-v-4ed4d09a,wx-textarea.data-v-4ed4d09a,wx-navigator.data-v-4ed4d09a,wx-audio.data-v-4ed4d09a,wx-image.data-v-4ed4d09a,wx-video.data-v-4ed4d09a,wx-map.data-v-4ed4d09a,wx-canvas.data-v-4ed4d09a,wx-contact-button.data-v-4ed4d09a,wx-cover-image.data-v-4ed4d09a,wx-cover-view.data-v-4ed4d09a{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center.data-v-4ed4d09a{text-align:center}
+.font-weight.data-v-4ed4d09a{font-weight:bold}
+wx-page.data-v-4ed4d09a{font-size:32rpx;background:#f7f7f7}
+.swipe.data-v-4ed4d09a{width:750rpx;height:280rpx}
+.swipe .image.data-v-4ed4d09a{width:750rpx;height:280rpx}

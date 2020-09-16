@@ -1,0 +1,1 @@
+<block wx:if="{{actual.price!=-1}}"><view class="app-price t-omit data-v-03d5e89d"><text class="{{['data-v-03d5e89d',actual.type]}}">{{actual.price}}</text></view></block>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "账单总结",
+  "usingComponents": {
+    "app-goods-preview-poster": "/components/page-component/goods/app-goods-preview-poster"
+  }
+}

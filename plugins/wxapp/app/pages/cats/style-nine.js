@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/cats/style-nine"],{"0420":function(t,n,e){"use strict";var o=e("db70"),i=e.n(o);i.a},"0fe3":function(t,n,e){"use strict";e.r(n);var o=e("6d7a"),i=e.n(o);for(var s in o)"default"!==s&&function(t){e.d(n,t,function(){return o[t]})}(s);n["default"]=i.a},6103:function(t,n,e){"use strict";var o=function(){var t=this,n=t.$createElement;t._self._c},i=[];e.d(n,"a",function(){return o}),e.d(n,"b",function(){return i})},"6d7a":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var o=function(){return e.e("components/page-component/app-category-list/app-category-list").then(e.bind(null,"5d3f"))},i=function(){return e.e("pages/cats/product-list").then(e.bind(null,"5236"))},s=function(){return e.e("pages/cats/goods-list").then(e.bind(null,"cc6d"))},a=function(){return e.e("components/page-component/app-no-goods/app-no-goods").then(e.bind(null,"8112"))},u={name:"style-nine",components:{"app-category-list":o,"product-list":i,"app-no-goods":a,"goods-list":s},props:["list","activeIndex","setHeight","goods_list"],methods:{active:function(t){this.$emit("requestGoods",t),this.$emit("active",t),this.$emit("page")},lower:function(){this.$emit("lower",this.list[this.activeIndex])},attr:function(t,n,e,o){this.$emit("attr",t,n,e,o)},route_advert:function(t){this.$emit("route_advert",t)}}};n.default=u},"7c2b":function(t,n,e){"use strict";e.r(n);var o=e("6103"),i=e("0fe3");for(var s in i)"default"!==s&&function(t){e.d(n,t,function(){return i[t]})}(s);e("0420");var a=e("2877"),u=Object(a["a"])(i["default"],o["a"],o["b"],!1,null,"953686b4",null);n["default"]=u.exports},db70:function(t,n,e){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/cats/style-nine-create-component',
+    {
+        'pages/cats/style-nine-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("7c2b"))
+        })
+    },
+    [['pages/cats/style-nine-create-component']]
+]);                

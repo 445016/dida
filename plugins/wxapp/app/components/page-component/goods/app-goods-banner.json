@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "app-video": "/components/page-component/app-video/app-video",
+    "app-goods-video": "/components/page-component/goods/index"
+  },
+  "component": true
+}

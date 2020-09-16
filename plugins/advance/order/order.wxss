@@ -1,0 +1,39 @@
+page,wx-block,wx-view,wx-scroll-view,wx-swiper,wx-movable-view,wx-icon,wx-text,wx-progress,wx-button,wx-checkbox,wx-form,wx-input,wx-label,wx-picker,wx-picker-view,wx-radio,wx-slider,wx-switch,wx-textarea,wx-navigator,wx-audio,wx-image,wx-video,wx-map,wx-canvas,wx-contact-button,wx-cover-image,wx-cover-view{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center{text-align:center}
+.font-weight{font-weight:bold}
+page{font-size:32rpx;background:#f7f7f7}
+.order{position:absolute;width:750rpx;top:0;left:0;height:100%;z-index:1500;background-color:#f7f7f7}
+.order .top{position:fixed;top:0;left:0;background-color:#efeff4;font-size:32rpx;z-index:1500;width:750rpx}
+.order .top .to-top{width:280rpx;height:88rpx}
+.order .top .to-top .icon{width:22rpx;height:12rpx;margin-left:16rpx}
+.order .top .to-top wx-text{width:145rpx;text-align:center;word-break:break-all;-o-text-overflow:ellipsis;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:1;overflow:hidden;font-size:26rpx;color:#ff4544}
+.order .top .to-top .icon-active{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}
+.order .top .top-input{height:88rpx;width:470rpx}
+.order .top .top-input .input{width:570rpx;height:56rpx;background-color:white;border-radius:30rpx;margin-left:28rpx}
+.order .top .top-input .input>wx-image{width:26rpx;height:26rpx;margin-right:13rpx}
+.order .top .top-input .input>wx-text{font-size:26rpx;color:#b2b2b2}
+.order .do-top{position:fixed;top:88rpx;width:100%;height:100%;z-index:1500;background-color:rgba(0,0,0,0.3)}
+.order .do-top .do-top-item{width:100%;height:88rpx;background-color:#ffffff;font-size:32rpx;color:#353535;border-top:1rpx solid #e2e2e2;text-align:center;line-height:88rpx}
+.order .do-top .active-item{color:#ff4544}
+.order .item{width:750rpx;margin-bottom:20rpx;background-color:#ffffff}
+.order .item .item-top{width:100%;line-height:80rpx;background-color:#ffffff;border-bottom:1rpx solid #e2e2e2;font-size:26rpx;color:#ff4544;padding:0 24rpx}
+.order .item .item-center{width:100%;padding:24rpx 24rpx 0 24rpx}
+.order .item .item-center .image{width:220rpx;height:220rpx;border-radius:16rpx}
+.order .item .item-center .content{width:482rpx;min-height:220rpx;padding-left:24rpx}
+.order .item .item-center .content .name{margin-top:12rpx;word-break:break-all;-o-text-overflow:ellipsis;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;font-size:28rpx;color:#353535}
+.order .item .item-center .content .attr{margin-top:16rpx}
+.order .item .item-center .content .attr>wx-text{font-size:26rpx;color:#999999;margin-right:16rpx}
+.order .item .item-center .content .num-price{font-size:28rpx;color:#353535;margin-top:24rpx}
+.order .item .item-center .content .des-price{font-size:28rpx;color:#353535;margin-top:24rpx}
+.order .item .item-bottom{width:750rpx;background-color:#ffffff;padding:0 24rpx 32rpx 24rpx;overflow:hidden}
+.order .item .item-bottom .swell-price{font-size:28rpx;color:#353535;margin-top:24rpx}
+.order .item .item-bottom .button{float:right;height:56rpx;line-height:56rpx;font-size:28rpx;color:#ffffff;padding:0 24rpx;border-radius:28rpx;background-color:#ff4544;margin-top:32rpx}
+.order-empty{position:absolute;top:555rpx;left:50%;-webkit-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);width:240rpx;text-align:center}
+.order-empty>wx-image{height:240rpx;width:240rpx}
+.order-empty>wx-text{font-size:24rpx;color:#666666}
+.text-time{text-align:right;font-size:26rpx;color:#999999;margin-top:16rpx}
+.search{height:104rpx;width:100%;background-color:#efeff4;padding:20rpx 24rpx;position:relative;overflow:hidden}
+.search .delete{width:32rpx;height:32rpx}
+.search .input{height:64rpx;width:620rpx;border-radius:50rpx;background-color:#ffffff;padding-left:32rpx;font-size:26rpx;color:#353535}
+.search .delete{position:absolute;right:125rpx;z-index:1600}
+.filal-payment-time{font-size:22rpx;color:#ff4544;text-align:right;margin-top:14rpx}

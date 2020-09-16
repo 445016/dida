@@ -1,0 +1,12 @@
+wx-page.data-v-530e9c7f,wx-block.data-v-530e9c7f,wx-view.data-v-530e9c7f,wx-scroll-view.data-v-530e9c7f,wx-swiper.data-v-530e9c7f,wx-movable-view.data-v-530e9c7f,wx-icon.data-v-530e9c7f,wx-text.data-v-530e9c7f,wx-progress.data-v-530e9c7f,wx-button.data-v-530e9c7f,wx-checkbox.data-v-530e9c7f,wx-form.data-v-530e9c7f,wx-input.data-v-530e9c7f,wx-label.data-v-530e9c7f,wx-picker.data-v-530e9c7f,wx-picker-view.data-v-530e9c7f,wx-radio.data-v-530e9c7f,wx-slider.data-v-530e9c7f,wx-switch.data-v-530e9c7f,wx-textarea.data-v-530e9c7f,wx-navigator.data-v-530e9c7f,wx-audio.data-v-530e9c7f,wx-image.data-v-530e9c7f,wx-video.data-v-530e9c7f,wx-map.data-v-530e9c7f,wx-canvas.data-v-530e9c7f,wx-contact-button.data-v-530e9c7f,wx-cover-image.data-v-530e9c7f,wx-cover-view.data-v-530e9c7f{-webkit-box-sizing:border-box;box-sizing:border-box}
+.text-center.data-v-530e9c7f{text-align:center}
+.font-weight.data-v-530e9c7f{font-weight:bold}
+wx-page.data-v-530e9c7f{font-size:32rpx;background:#f7f7f7}
+.detail-ad.data-v-530e9c7f{width:750rpx;height:88rpx;background:-webkit-gradient(linear, left top, right top, from(#ff5527), to(#ff2755));background:-o-linear-gradient(left, #ff5527, #ff2755);background:linear-gradient(to right, #ff5527, #ff2755);padding:0 24rpx}
+.detail-ad .text.data-v-530e9c7f{color:#ffffff}
+.detail-ad .text .title.data-v-530e9c7f{display:inline-block;font-size:32rpx;margin-right:12rpx;height:88rpx;line-height:88rpx}
+.detail-ad .text .count.data-v-530e9c7f{display:inline-block;padding:5rpx 16rpx;border-radius:18rpx;background-color:rgba(0,0,0,0.2);font-size:22rpx}
+.detail-ad .count-down.data-v-530e9c7f{height:88rpx;text-align:center}
+.detail-ad .count-down .title.data-v-530e9c7f{font-size:20rpx;color:#ffffff;margin-top:5rpx;margin-bottom:5rpx}
+.detail-ad .count-down .num.data-v-530e9c7f{width:40rpx;height:36rpx;line-height:36rpx;text-align:center;border-radius:4rpx;font-size:24rpx;color:#353535;background-color:#ffffff}
+.detail-ad .count-down .word.data-v-530e9c7f{width:35rpx;height:36rpx;line-height:36rpx;text-align:center;font-size:24rpx;color:#ffffff}

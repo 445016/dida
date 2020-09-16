@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "N元任选",
+  "usingComponents": {
+    "app-iphone-x": "/components/basic-component/app-iphone-x/app-iphone-x",
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods"
+  }
+}

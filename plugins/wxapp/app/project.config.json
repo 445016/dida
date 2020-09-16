@@ -1,0 +1,36 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+    },
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"minified": true,
+		"postcss": true
+    },
+	"compileType": "miniprogram",
+	"libVersion": "2.10.3",
+	"appid": "wxc6090e10acaa4ab5",
+	"projectname": "zjhj_mall_wxapp_v4.2.60",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}

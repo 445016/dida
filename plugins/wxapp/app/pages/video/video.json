@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "app-video": "/components/page-component/app-video/app-video"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "套餐组合",
+  "usingComponents": {
+    "app-composition": "/components/basic-component/app-composition/app-composition"
+  }
+}
